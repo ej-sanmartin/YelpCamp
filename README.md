@@ -10,9 +10,9 @@ This project is a web application with sign up and login/ logoff features that a
 
 This project is a full stack, web application, and I was able to learn and use many front end and backend technologies. Bootstrap and SemanticUI were some of the technologies used to style the front end. The entire application uses the Express.JS framework and RESTful routing to create structure. And, for the backend, Node.JS is used and Mongodb is implemented to store and retrieve data inputted by users.
 
-This project gave me the valuable experience of creating a web app and to think my way through both the front end and the back end of a product.
+This project gave me the valuable experience of creating a web app and to think my way through both the front end and the back end of a product. Also, I learned how to deploy a website with Heroku!
 
-A few features I would want to implement to better this project are allowing the user to upload photos not through a link but by uploading the picture themselves, dynamic prices for all the posts, and SEO.
+A few features I would want to implement to better this project are allowing the user to upload photos not only through a link but by uploading the picture themselves, dynamic prices for all the posts, and SEO.
 
 
 Requirements
