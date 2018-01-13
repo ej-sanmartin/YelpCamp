@@ -25,7 +25,8 @@ Instructions to Run Program
 -----------------------
 
 Web application deployed with Heroku and could be found in the following link:
-[YelpCamp]("https://powerful-ridge-46545.herokuapp.com/")
+
+[YelpCamp](https://powerful-ridge-46545.herokuapp.com/)
 
 
 Author/ Contributions
